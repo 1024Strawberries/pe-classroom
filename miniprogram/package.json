@@ -1,0 +1,18 @@
+{
+  "name": "pe-field-miniprogram",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-alpha-4020920240929001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-alpha-4020920240929001",
+    "@dcloudio/vite-plugin-uni": "3.0.0-alpha-4020920240929001",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.8"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "体育课现场记录"
+      }
+    },
+    {
+      "path": "pages/classes/classes",
+      "style": {
+        "navigationBarTitleText": "课程班级"
+      }
+    },
+    {
+      "path": "pages/students/students",
+      "style": {
+        "navigationBarTitleText": "学生名单"
+      }
+    },
+    {
+      "path": "pages/attendance/attendance",
+      "style": {
+        "navigationBarTitleText": "课堂考勤"
+      }
+    },
+    {
+      "path": "pages/exam/exam",
+      "style": {
+        "navigationBarTitleText": "考试记录"
+      }
+    },
+    {
+      "path": "pages/export/export",
+      "style": {
+        "navigationBarTitleText": "数据导出"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "体育课现场记录",
+    "navigationBarBackgroundColor": "#1f4d46",
+    "backgroundColor": "#f5f7fa"
+  }
+}
